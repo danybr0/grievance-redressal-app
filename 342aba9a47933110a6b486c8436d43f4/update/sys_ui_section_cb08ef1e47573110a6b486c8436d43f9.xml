@@ -4,13 +4,69 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-26 14:20:45</sys_created_on>
-            <sys_id>4308235e47573110a6b486c8436d436e</sys_id>
+            <sys_created_on>2023-12-26 15:45:07</sys_created_on>
+            <sys_id>c75b7f9247d73110a6b486c8436d4349</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_393895_grievan_0_grievance" sys_domain="global" view="Default view">cb08ef1e47573110a6b486c8436d43f9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-26 14:20:45</sys_updated_on>
+            <sys_updated_on>2023-12-26 15:45:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>redressal_group</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-26 15:45:07</sys_created_on>
+            <sys_id>cf5b7f9247d73110a6b486c8436d4349</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_393895_grievan_0_grievance" sys_domain="global" view="Default view">cb08ef1e47573110a6b486c8436d43f9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-26 15:45:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-26 15:45:07</sys_created_on>
+            <sys_id>c35b7f9247d73110a6b486c8436d434a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_393895_grievan_0_grievance" sys_domain="global" view="Default view">cb08ef1e47573110a6b486c8436d43f9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-26 15:45:07</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-26 15:45:07</sys_created_on>
+            <sys_id>c75b7f9247d73110a6b486c8436d434a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_393895_grievan_0_grievance" sys_domain="global" view="Default view">cb08ef1e47573110a6b486c8436d43f9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-26 15:45:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-26 15:45:07</sys_created_on>
+            <sys_id>cb5b7f9247d73110a6b486c8436d434a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_393895_grievan_0_grievance" sys_domain="global" view="Default view">cb08ef1e47573110a6b486c8436d43f9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-26 15:45:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
