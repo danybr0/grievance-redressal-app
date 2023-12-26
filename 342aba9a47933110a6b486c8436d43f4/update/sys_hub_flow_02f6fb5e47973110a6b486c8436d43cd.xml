@@ -11,7 +11,7 @@
         <copied_from_name>FlowTemplate_Empty</copied_from_name>
         <description/>
         <internal_name>grievance_flow</internal_name>
-        <label_cache>[{"name":"08d802a5-d3c6-4f6f-b28b-f7cf03718f8a.record.redressal_group","label":"1 - Update Record➛Grievance Record➛Redressal Group","reference":"sys_user_group","reference_display":"Group","type":"reference","base_type":"reference","parent_table_name":"x_393895_grievan_0_grievance","column_name":"redressal_group"},{"name":"08d802a5-d3c6-4f6f-b28b-f7cf03718f8a.record","label":"1 - Update Record➛Grievance Record","reference":"x_393895_grievan_0_grievance","reference_display":"Grievance","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Created_1.current","label":"Trigger - Record Created➛Grievance Record","reference":"x_393895_grievan_0_grievance","reference_display":"Grievance","type":"reference","base_type":"reference","attributes":{}}]</label_cache>
+        <label_cache>[{"name":"08d802a5-d3c6-4f6f-b28b-f7cf03718f8a.record.redressal_group","label":"1 - Update Record➛Grievance Record➛Redressal Group","reference":"sys_user_group","reference_display":"Group","type":"reference","base_type":"reference","parent_table_name":"x_393895_grievan_0_grievance","column_name":"redressal_group"},{"name":"08d802a5-d3c6-4f6f-b28b-f7cf03718f8a.record","label":"1 - Update Record➛Grievance Record","reference":"x_393895_grievan_0_grievance","reference_display":"Grievance Record","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Created_1.current","label":"Trigger - Record Created➛Grievance Record","reference":"x_393895_grievan_0_grievance","reference_display":"Grievance","type":"reference","base_type":"reference","attributes":{}}]</label_cache>
         <master_snapshot>5ff9375247d73110a6b486c8436d4300</master_snapshot>
         <name>Grievance Flow</name>
         <natlang/>
@@ -23,14 +23,14 @@
         <sc_callable>false</sc_callable>
         <show_draft_actions>false</show_draft_actions>
         <show_triggered_flows>false</show_triggered_flows>
-        <status>published</status>
+        <status>draft</status>
         <sys_class_name>sys_hub_flow</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-26 15:25:56</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>02f6fb5e47973110a6b486c8436d43cd</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Grievance Flow</sys_name>
         <sys_overrides/>
         <sys_package display_value="Grievance Redressal App" source="x_393895_grievan_0">342aba9a47933110a6b486c8436d43f4</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Grievance Redressal App">342aba9a47933110a6b486c8436d43f4</sys_scope>
         <sys_update_name>sys_hub_flow_02f6fb5e47973110a6b486c8436d43cd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-26 15:39:10</sys_updated_on>
+        <sys_updated_on>2023-12-26 16:06:41</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=02f6fb5e47973110a6b486c8436d43cd"/>
@@ -93,10 +93,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-26 15:38:59</sys_created_on>
         <sys_id>09f9b35247d73110a6b486c8436d438c</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-26 15:39:10</sys_updated_on>
+        <sys_updated_on>2023-12-26 16:06:41</sys_updated_on>
         <trigger_definition display_value="Created">798916a0c31322002841b63b12d3ae7c</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -150,7 +150,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name,uiTypeLabel=Table Name</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -209,14 +209,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-26 15:38:59</sys_created_on>
         <sys_id>41f9b35247d73110a6b486c8436d4388</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Grievance Redressal App">342aba9a47933110a6b486c8436d43f4</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-26 15:39:10</sys_updated_on>
+        <sys_updated_on>2023-12-26 16:06:19</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -234,7 +234,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id,uiTypeLabel=Document ID</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -293,14 +293,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-26 15:38:58</sys_created_on>
         <sys_id>b8f9b35247d73110a6b486c8436d4351</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Grievance Redressal App">342aba9a47933110a6b486c8436d43f4</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-26 15:39:10</sys_updated_on>
+        <sys_updated_on>2023-12-26 16:06:19</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -332,10 +332,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-26 15:38:59</sys_created_on>
         <sys_id>01f9b35247d73110a6b486c8436d4393</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Grievance Redressal App">342aba9a47933110a6b486c8436d43f4</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-26 15:54:56</sys_updated_on>
+        <sys_updated_on>2023-12-26 16:06:41</sys_updated_on>
         <ui_id>08d802a5-d3c6-4f6f-b28b-f7cf03718f8a</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=01f9b35247d73110a6b486c8436d4393"/>
@@ -421,10 +421,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-26 15:38:59</sys_created_on>
         <sys_id>49f9b35247d73110a6b486c8436d439c</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Grievance Redressal App">342aba9a47933110a6b486c8436d43f4</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-26 15:54:56</sys_updated_on>
+        <sys_updated_on>2023-12-26 16:06:41</sys_updated_on>
         <ui_id>7d1a38fb-4c56-465e-89ad-1f2d2e62f962</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=49f9b35247d73110a6b486c8436d439c"/>
