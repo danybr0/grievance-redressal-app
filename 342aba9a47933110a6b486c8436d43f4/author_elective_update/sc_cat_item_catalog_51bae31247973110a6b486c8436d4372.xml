@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Grievance request">7d3a6bde47573110a6b486c8436d4375</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 14:32:22</sys_created_on>
+        <sys_id>51bae31247973110a6b486c8436d4372</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Grievance request</sys_name>
+        <sys_package display_value="Grievance Redressal App" source="x_393895_grievan_0">342aba9a47933110a6b486c8436d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Grievance Redressal App">342aba9a47933110a6b486c8436d43f4</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_51bae31247973110a6b486c8436d4372</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 14:32:22</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Grievance Redressal App">342aba9a47933110a6b486c8436d43f4</application>
+        <file_path/>
+        <instance_id>bca31ca0dbf8d4d85749cac5059619ac</instance_id>
+        <instance_name>dev103152</instance_name>
+        <name>sc_cat_item_catalog_51bae31247973110a6b486c8436d4372</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Grievance request">7d3a6bde47573110a6b486c8436d4375</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-26 14:32:22</sys_created_on><sys_id>51bae31247973110a6b486c8436d4372</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Grievance request</sys_name><sys_package display_value="Grievance Redressal App" source="x_393895_grievan_0">342aba9a47933110a6b486c8436d43f4</sys_package><sys_policy/><sys_scope display_value="Grievance Redressal App">342aba9a47933110a6b486c8436d43f4</sys_scope><sys_update_name>sc_cat_item_catalog_51bae31247973110a6b486c8436d4372</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-26 14:32:22</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>557422804</payload_hash>
+        <record_name>Service Catalog.Grievance request</record_name>
+        <reverted_from/>
+        <source>74ee9f9e47173110a6b486c8436d4334</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 14:32:22</sys_created_on>
+        <sys_id>d5bae31247973110a6b486c8436d4375</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ca68a793b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 14:32:22</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>59bae3127b97311080009024c4a28374</update_guid>
+        <update_guid_history>59bae3127b97311080009024c4a28374:557422804</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Grievance request">5c5bef1247973110a6b486c8436d437d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 14:35:02</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>679c304116f54aef847d02f896540319</sys_id>
+        <sys_metadata>51bae31247973110a6b486c8436d4372</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Grievance request</sys_name>
+        <sys_package display_value="Grievance Redressal App" source="x_393895_grievan_0">342aba9a47933110a6b486c8436d43f4</sys_package>
+        <sys_parent display_value="Grievance request">7d3a6bde47573110a6b486c8436d4375</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Grievance Redressal App">342aba9a47933110a6b486c8436d43f4</sys_scope>
+        <sys_scope_delete display_value="">308d28b678144bfca876ce11fab50544</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_51bae31247973110a6b486c8436d4372</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_51bae31247973110a6b486c8436d4372">d5bae31247973110a6b486c8436d4375</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 14:35:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
