@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_393895_grievan_0.user" name="x_393895_grievan_0.user">4d2afa9a47933110a6b486c8436d4300</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 11:00:10</sys_created_on>
+        <sys_id>492afa9a47933110a6b486c8436d4301</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4d2afa9a47933110a6b486c8436d4300</sys_name>
+        <sys_package display_value="Grievance Redressal App" source="x_393895_grievan_0">342aba9a47933110a6b486c8436d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Grievance Redressal App">342aba9a47933110a6b486c8436d43f4</sys_scope>
+        <sys_update_name>sys_embedded_help_role_492afa9a47933110a6b486c8436d4301</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 11:00:10</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
