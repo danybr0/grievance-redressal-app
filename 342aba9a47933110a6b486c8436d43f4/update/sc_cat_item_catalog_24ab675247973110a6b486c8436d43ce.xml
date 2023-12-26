@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Grievance request">7d3a6bde47573110a6b486c8436d4375</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-26 14:36:24</sys_created_on>
+        <sys_id>24ab675247973110a6b486c8436d43ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Grievance request</sys_name>
+        <sys_package display_value="Grievance Redressal App" source="x_393895_grievan_0">342aba9a47933110a6b486c8436d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Grievance Redressal App">342aba9a47933110a6b486c8436d43f4</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_24ab675247973110a6b486c8436d43ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-26 14:36:24</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
