@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_393895_grievan_0.Audience for app grievance-redressal-app</api_name>
+        <description/>
+        <name>Audience for app grievance-redressal-app</name>
+        <role_names/>
+        <roles>3c2aba9a47933110a6b486c8436d43fc,4d2afa9a47933110a6b486c8436d4300</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-27 10:17:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1f0ab7ea471b7110a6b486c8436d439a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app grievance-redressal-app</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Grievance Redressal App" source="x_393895_grievan_0">342aba9a47933110a6b486c8436d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Grievance Redressal App">342aba9a47933110a6b486c8436d43f4</sys_scope>
+        <sys_update_name>sys_ux_applicability_1f0ab7ea471b7110a6b486c8436d439a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-27 10:17:53</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>
