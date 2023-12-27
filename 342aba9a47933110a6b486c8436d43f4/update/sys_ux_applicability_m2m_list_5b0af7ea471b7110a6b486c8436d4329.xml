@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for app grievance-redressal-app">1f0ab7ea471b7110a6b486c8436d439a</applicability>
+        <list display_value="All">1b0af7ea471b7110a6b486c8436d4323</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-27 10:17:54</sys_created_on>
+        <sys_id>5b0af7ea471b7110a6b486c8436d4329</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Grievance Redressal App" source="x_393895_grievan_0">342aba9a47933110a6b486c8436d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Grievance Redressal App">342aba9a47933110a6b486c8436d43f4</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_5b0af7ea471b7110a6b486c8436d4329</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-27 10:17:54</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>

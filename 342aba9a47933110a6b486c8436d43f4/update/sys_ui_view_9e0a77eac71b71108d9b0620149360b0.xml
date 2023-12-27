@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>workspace-grievance-redressal-app-0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-27 10:17:51</sys_created_on>
+        <sys_id>9e0a77eac71b71108d9b0620149360b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workspace Grievance Redressal App 0</sys_name>
+        <sys_package display_value="Grievance Redressal App" source="x_393895_grievan_0">342aba9a47933110a6b486c8436d43f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Grievance Redressal App">342aba9a47933110a6b486c8436d43f4</sys_scope>
+        <sys_update_name>sys_ui_view_9e0a77eac71b71108d9b0620149360b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-27 10:17:51</sys_updated_on>
+        <title>Workspace Grievance Redressal App 0</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
